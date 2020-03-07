@@ -28,6 +28,10 @@ ol {
     margin-left: 30px;
 }
 
+.wrap {
+    padding: 15px;
+}
+
 .header,
 .footer,
 .gimnoTitle,
@@ -55,10 +59,6 @@ ol {
 
 .gimnoTegs a+a {
     margin-top: 10px;
-}
-
-.wrap {
-    padding: 15px;
 }
 
 
