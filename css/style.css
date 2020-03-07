@@ -30,7 +30,8 @@ ol {
 
 .header,
 .footer,
-.gimnoTitle {
+.gimnoTitle,
+.gimnoTeg {
     background: #862300;
     color: #fff;
 }
@@ -41,7 +42,24 @@ ol {
     margin: 5px 0;
 }
 
+.gimnoTegs {
+    border: 1px solid #862300;
+    margin: 10px;
+}
+
+.gimnoTegs a {
+    display: inline-block;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.gimnoTegs a+a {
+    margin-top: 10px;
+}
+
 .wrap {
     padding: 15px;
 }
+
+
 /*# sourceMappingURL=style.css.map */
